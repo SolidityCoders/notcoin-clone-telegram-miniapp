@@ -9,7 +9,7 @@ Want a personal demo of our NotCoin / Hmastercombat-like game?
 Write to us, and we will answer all your questions and tell you all about your potential game:
 
 - <a href="https://telegram.me/flashdoll" target="_blank">Our Telegram</a>
-- <a href="telegram.me/jalehanimss" target="_blank">Contact Us</a>
+- <a href="https://telegram.me/jalehanimss" target="_blank">Contact Us</a>
 
 
 ### Admin Panel:
