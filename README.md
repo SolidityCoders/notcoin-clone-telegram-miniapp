@@ -4,6 +4,8 @@ EyeTon Game offers a unique gaming experience with advanced features and a user-
 
 - ## Live Demo / Pricing
 
+- #### <a href="https://t.me/eyetonbot?start=7DNJD6" target="_blank">LIVE DEMO APP</a>
+
 Want a personal demo of our NotCoin / Hmastercombat-like game?
 
 Write to us, and we will answer all your questions and tell you all about your potential game:
